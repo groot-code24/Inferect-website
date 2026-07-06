@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <style>
+    .mark { fill: none; stroke: #111111; stroke-width: 20; stroke-linecap: round; stroke-linejoin: round; }
+    .node { fill: #111111; }
+    .line { stroke: #111111; stroke-width: 6; stroke-linecap: round; }
+    @media (prefers-color-scheme: dark) {
+      .mark, .line { stroke: #f2f4f8; }
+      .node { fill: #f2f4f8; }
+    }
+  </style>
+  <line class="line" x1="70" y1="180" x2="220" y2="256"/>
+  <line class="line" x1="70" y1="256" x2="220" y2="256"/>
+  <line class="line" x1="70" y1="332" x2="220" y2="256"/>
+  <circle class="node" cx="70" cy="180" r="6"/>
+  <circle class="node" cx="70" cy="256" r="6"/>
+  <circle class="node" cx="70" cy="332" r="6"/>
+  <circle class="node" cx="220" cy="256" r="6"/>
+  <line class="line" x1="292" y1="256" x2="442" y2="256"/>
+  <circle class="node" cx="442" cy="256" r="6"/>
+  <path class="mark" d="M256 90 C220 90 220 140 256 165 L256 347 C220 372 220 422 256 422"/>
+  <path class="mark" d="M256 90 C292 90 292 140 256 165 L256 347 C292 372 292 422 256 422"/>
+</svg>
