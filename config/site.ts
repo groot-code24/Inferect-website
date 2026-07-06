@@ -7,9 +7,9 @@ export const siteConfig = {
     "Inferect intelligently routes, optimizes, and analyzes every AI inference request — cutting cost, reducing latency, and removing provider lock-in.",
   url: "https://inferect.ai",
   ogImage: "https://inferect.ai/og.png",
-  github: "https://github.com/inferect",
-  twitter: "https://x.com/inferect",
-  linkedin: "https://linkedin.com/company/inferect",
+  // github: "https://github.com/inferect",
+  // twitter: "https://x.com/inferect",
+  // linkedin: "https://linkedin.com/company/inferect",
   keywords: [
     "AI inference",
     "LLM routing",
