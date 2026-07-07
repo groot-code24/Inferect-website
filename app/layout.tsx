@@ -68,7 +68,7 @@ const jsonLd = {
   name: siteConfig.name,
   url: siteConfig.url,
   description: siteConfig.description,
-  sameAs: [siteConfig.github, siteConfig.twitter, siteConfig.linkedin],
+  sameAs: [],
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
